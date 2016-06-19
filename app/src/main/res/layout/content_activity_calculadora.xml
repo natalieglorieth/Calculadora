@@ -40,7 +40,7 @@
             android:layout_height="wrap_content"
             android:textSize="30dp"
             android:textColor="#ffc266"
-            android:text="hola"
+            android:text=""
             android:textAlignment="textEnd"
             />
 
